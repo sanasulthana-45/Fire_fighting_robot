@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🔥 Automatic Fire Fighting Robot
 
 ### 🤖 Detect the Fire. Move Toward It. Spray Water.
